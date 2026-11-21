@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# PyTorch / data / models
+data/
+*.pt
+*.pth
+*.ckpt
+runs/
+lightning_logs/
+wandb/
+
+# Editors
+.vscode/
+.idea/
