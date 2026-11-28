@@ -1,1 +1,1 @@
-PyTorch tests for Deep Learning
+PyTorch for Deep Learning.
